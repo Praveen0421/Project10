@@ -1,0 +1,338 @@
+@media only screen and (max-width: 1280px) {
+  .bar {
+    display: none;
+    height: 38px;
+  }
+  .navbar {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 0px 0px;
+  }
+  .logo {
+    position: relative;
+    top: 20px;
+    font-size: 35px;
+    font-weight: 800;
+    line-height: 1.2em;
+  }
+  .items {
+    position: relative;
+    left: 40px;
+    display: flex;
+  }
+  .item {
+    margin: 0px 25px;
+    font-size: 20px;
+  }
+
+  .call-icon {
+    font-size: 30px;
+  }
+  .line {
+    width: 830px;
+    right: 60px;
+  }
+
+  .text {
+    font-size: 70px;
+    left: -220px;
+  }
+  .btn {
+    left: -420px;
+    font-size: 25px;
+    padding: 18px 48px;
+  }
+
+  .info1 {
+    right: 115px;
+    bottom: 388px;
+  }
+  .info2 {
+    right: 345px;
+    bottom: 100px;
+  }
+  .info-content {
+    width: 320px;
+    height: 160px;
+  }
+  .info-content2 {
+    height: 180px;
+  }
+  .icon {
+    left: 40px;
+    width: 90px;
+    height: 40px;
+    font-size: 30px;
+  }
+  .para {
+    left: 40px;
+    font-size: 20px;
+  }
+  .svg1 {
+    left: 65px;
+    top: 24px;
+  }
+  .svg2 {
+    left: 195px;
+    bottom: 130px;
+  }
+  .svg-line {
+    width: 50px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .logo {
+    top: 20px;
+    font-size: 30px;
+  }
+  .items {
+    position: relative;
+    left: 0px;
+    display: flex;
+  }
+  .item {
+    margin: 0px 15px;
+    font-size: 18px;
+  }
+
+  .call-icon {
+    font-size: 30px;
+  }
+  .line {
+    width: 680px;
+    right: 65px;
+  }
+
+  .text {
+    font-size: 55px;
+    top: 20px;
+    left: -200px;
+  }
+  .btn {
+    top: 104px;
+    left: -350px;
+    font-size: 20px;
+    padding: 16px 40px;
+  }
+
+  .info1 {
+    right: 95px;
+    bottom: 408px;
+  }
+  .info2 {
+    right: 345px;
+    bottom: 100px;
+  }
+  .info-content {
+    width: 280px;
+    height: 140px;
+  }
+  .info-content2 {
+    height: 160px;
+  }
+  .icon {
+    left: 40px;
+    width: 70px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .para {
+    left: 40px;
+    font-size: 16px;
+  }
+  .svg1 {
+    left: 48px;
+    top: 24px;
+  }
+  .svg2 {
+    left: 195px;
+    bottom: 130px;
+  }
+  .svg-line {
+    height: 1px;
+    width: 50px;
+  }
+  .svg-circle {
+    height: 15px;
+    width: 15px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .blank {
+    position: relative;
+    height: 2.2px;
+    background-color: #fff;
+  }
+  .line1 {
+    border: 1.5px solid #fff;
+  }
+  .logo {
+    top: 0px;
+    left: -90px;
+    font-size: 30px;
+  }
+  .bar {
+    position: relative;
+    display: block;
+    left: 90px;
+  }
+  .items {
+    display: none;
+  }
+
+  .line {
+    display: none;
+  }
+  .header-text {
+    top: 0px;
+  }
+  .text {
+    font-size: 55px;
+    top: 20px;
+    left: 0px;
+  }
+  .btn {
+    top: 50px;
+    left: 0px;
+    font-size: 20px;
+    padding: 16px 40px;
+  }
+
+  .info1 {
+    right: 95px;
+    bottom: 198px;
+  }
+  .info2 {
+    right: 345px;
+    bottom: 0px;
+  }
+  .info-content {
+    width: 280px;
+    height: 140px;
+  }
+  .info-content2 {
+    height: 160px;
+  }
+  .icon {
+    left: 40px;
+    width: 70px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .para {
+    left: 40px;
+    font-size: 16px;
+  }
+  .svg1 {
+    left: 48px;
+    top: 24px;
+  }
+  .svg2 {
+    left: 173px;
+    bottom: 50px;
+  }
+  .svg-line {
+    height: 1px;
+    width: 50px;
+  }
+  .svg-circle {
+    height: 15px;
+    width: 15px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .logo {
+    left: -70px;
+  }
+  .bar {
+    left: 70px;
+  }
+  .header-text {
+    top: 20px;
+  }
+  .text {
+    font-size: 45px;
+    top: 20px;
+    left: 0px;
+  }
+  .para {
+    width: 210px;
+  }
+  .btn {
+    top: 50px;
+    left: 0px;
+    font-size: 18px;
+    padding: 16px 40px;
+  }
+  .info1 {
+    right: 5px;
+    bottom: 198px;
+  }
+  .svg {
+    width: 90px;
+  }
+  .svg2 {
+    left: 268px;
+  }
+  .info2 {
+    left: 10px;
+    bottom: 0px;
+  }
+}
+@media only screen and (max-width: 424px) {
+  .logo {
+    left: -30px;
+  }
+  .bar {
+    left: 30px;
+  }
+  .header-text {
+    top: 0px;
+  }
+  .text {
+    text-align: center;
+    font-size: 35px;
+    top: 20px;
+    left: 0px;
+  }
+  .para {
+    width: 210px;
+  }
+  .btn {
+    top: 50px;
+    left: 0px;
+    font-size: 16px;
+    padding: 15px 30px;
+  }
+
+  .info1 {
+    right: 10px;
+    bottom: 198px;
+  }
+  .svg {
+    width: 50px;
+  }
+  .svg1 {
+    transform: rotate(-90deg);
+    top: -145px;
+    left: 190px;
+  }
+  .svg2 {
+    left: 253px;
+  }
+  .info2 {
+    left: 10px;
+    bottom: 0px;
+  }
+  .svg-line {
+    width: 30px;
+  }
+  .svg-circle {
+    height: 15px;
+    width: 15px;
+  }
+}
