@@ -9,7 +9,7 @@
 
 - `this website take time to load because of high quality of image so we should use not very high quality image`
 
-#### It took hr to complete this project and made it responsive too
+#### It took 8hr to complete this project and made it responsive too
 
 ![Project10](10.png)
 
